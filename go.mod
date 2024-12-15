@@ -13,8 +13,8 @@ require (
 	github.com/jinzhu/gorm v1.9.16
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/sirupsen/logrus v1.8.1
-	gopkg.in/tucnak/telebot.v2 v2.5.0
 	github.com/spf13/pflag v1.0.5
+	gopkg.in/tucnak/telebot.v2 v2.5.0
 	gopkg.in/yaml.v2 v2.3.0
 )
 
@@ -40,8 +40,8 @@ require (
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/ugorji/go/codec v1.1.7 // indirect
 	go.opentelemetry.io/otel v0.16.0 // indirect
-	golang.org/x/crypto v0.0.0-20200728195943-123391ffb6de // indirect
-	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f // indirect
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/protobuf v1.23.0 // indirect
 )
 
